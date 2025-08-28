@@ -1,0 +1,5 @@
+{
+  "name": "Veo 2 Vertical Video Generator",
+  "description": "Create stunning vertical videos from a single image and a text prompt using Google's Veo 2 model. Ideal for social media content.",
+  "requestFramePermissions": []
+}
